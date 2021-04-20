@@ -1,0 +1,53 @@
+#caja1{
+    margin: auto;
+    margin-top: 15px;
+    height: 700px;
+    width: 850px;
+    background-color: white;
+    border: black 2px solid;
+}
+#caja-title{
+    margin: auto;
+    margin-top: 25px;
+}
+#caja-mensaje{
+    height: 470px;
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+    overflow-y: scroll;
+}
+#user-caja{
+    margin: auto;
+    margin-top: 30px;
+}
+#label-user{
+    margin-left: 50px;
+}
+#usuario{
+    margin-top: -33px;
+    margin-left: 250px;
+}
+#sms{
+    text-align-last: right;
+    text-align: auto;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+
+
+}
+#enviar{
+    margin-top: -65px;
+    margin-left: 670px;
+    width: 150px;
+    
+}
+#mens{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#buttons{
+    margin-top: -37px;
+    margin-left: 720px;
+}
